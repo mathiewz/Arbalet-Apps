@@ -1,6 +1,5 @@
 import random
 
-from arbalet.colors import hsv_to_rgb
 from arbalet.core import Arbalet
 from arbaletApp import ArbaletApp
 
